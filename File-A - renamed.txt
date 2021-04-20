@@ -1,4 +1,4 @@
-First line - f. A xxxxxxxxxxxxxxx
+First line - f. A
 Line added on laptop
 line added in 'main'
 
